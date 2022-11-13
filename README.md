@@ -7,3 +7,6 @@ In a car company, a survey was done through social media advertising, in which c
 
 # Dataset
 The dataset contains 400 entries which contains the userId, gender, age, estimatedsalary and the purchased history. The matrix of features taken into account are age and estimated salary which are going to predict if the user is going to buy new car or not(1=Yes, 0=No).
+
+
+![image](https://user-images.githubusercontent.com/102615860/201535843-b42167cf-3744-43b1-8b3b-8924d238f97b.png)
