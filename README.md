@@ -8,6 +8,16 @@ In a car company, a survey was done through social media advertising, in which c
 # Dataset
 The dataset contains 400 entries which contains the userId, gender, age, estimatedsalary and the purchased history. The matrix of features taken into account are age and estimated salary which are going to predict if the user is going to buy new car or not(1=Yes, 0=No).
 
+# What are the required python packages?
+ 1. Pandas
+ 2. Numpy
+ 3. Matplotlib
+ 4. skleran
+ 
+# Machine Learning Algorithm Used:-
+
+  1. logistic Regression
+
 # Solution
 First to import libaray and upload the dataset and performe the some opertion .
 
