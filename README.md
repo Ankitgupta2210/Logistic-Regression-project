@@ -11,9 +11,12 @@ The dataset contains 400 entries which contains the userId, gender, age, estimat
 # Solution
 First to import libaray and upload the dataset and performe the some opertion .
 
-step 1:- Date preproocessing 
+step 1:- Date preproocessing.
+
 step 2:- Apply the logistic regression
+
 step 3 :- Evaluate the prediction
+
 step 4:- visualization 
 
 The confusion matrix below shows that our model predicts 90 correct and 10 wrong decisions which shows 89% accuracy
