@@ -36,8 +36,8 @@ step 4:- visualization
 The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
 
  
-array([[66,  2],
-       [ 8, 24]], dtype=int64)
+array([[52,  6],
+       [10, 32]], dtype=int64)
        
        
        
