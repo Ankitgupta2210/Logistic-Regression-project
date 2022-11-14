@@ -50,8 +50,6 @@ The confusion matrix below shows that our model predicts 84 correct and 16 wrong
 
        
        
-# YOUTUBE VIDEO
-logistic_regression - Jupyter Notebook and 1 more page - Personal - Microsoft​ Edge 2022-11-14 22-42-39
 
 
 
