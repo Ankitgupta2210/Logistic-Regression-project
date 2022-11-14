@@ -33,17 +33,21 @@ step 3 :- Evaluate the prediction
 
 step 4:- visualization 
 
-The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
 
+![image](https://user-images.githubusercontent.com/102615860/201536553-b6f987d5-40a1-4147-a010-e04319aa15b4.png)
  
-array([[52,  6],
-       [10, 32]], dtype=int64)
        
        
        
 The data visualization of the training set and test set is given below. As logistic regression is linear model the data is being separated linearly. The blue dots shows the people buying the car whereas yello dots shows the people who don't buy the car.
 
-![image](https://user-images.githubusercontent.com/102615860/201536553-b6f987d5-40a1-4147-a010-e04319aa15b4.png)
+
+
+
+# Conculsion
+
+The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
+
        
 
 
