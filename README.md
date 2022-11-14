@@ -33,7 +33,7 @@ step 3 :- Evaluate the prediction
 
 step 4:- visualization 
 
-The confusion matrix below shows that our model predicts 90 correct and 10 wrong decisions which shows 90% accuracy
+The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
 
  
 array([[66,  2],
