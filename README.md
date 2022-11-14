@@ -44,6 +44,9 @@ The data visualization of the training set and test set is given below. As logis
 
 
 
+
+
+
 # Conculsion
 
 The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
@@ -53,3 +56,5 @@ The confusion matrix below shows that our model predicts 84 correct and 16 wrong
 
 
 
+# YOUTUBE
+  link:-https://youtu.be/-f6g3-KAOA4
