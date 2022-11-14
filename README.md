@@ -49,5 +49,9 @@ The data visualization of the training set and test set is given below. As logis
 The confusion matrix below shows that our model predicts 84 correct and 16 wrong decisions which shows 84% accuracy
 
        
+       
+# YOUTUBE VIDEO
+logistic_regression - Jupyter Notebook and 1 more page - Personal - Microsoft​ Edge 2022-11-14 22-42-39
+
 
 
